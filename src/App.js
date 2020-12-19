@@ -271,7 +271,7 @@ export default function App() {
       <div>
         {myBooksDB.map((genreKey) => {
           return (
-            <button onClick={() => genreClickHandler(genreKey)}>
+            <button key={genreKey} onClick={() => genreClickHandler(genreKey)}>
               {genreKey}
             </button>
           );
