@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Langar&display=swap");
+/* font-family: 'Libre Baskerville', serif; */
+/* font-family: "Langar", cursive; */
+.App {
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+  width: 75%;
+  margin: auto;
+  padding: 1rem;
+  color: white;
+}
+html {
+  background-color: black;
+}
+button {
+  cursor: pointer;
+  background: yellow;
+  border-radius: 0.7rem;
+  padding: 0.2rem 0.3rem;
+  border: 0.4rem ridge red;
+  margin: 0.1rem 3rem;
+  font-size: 1.5rem;
+  font-family: "Langar", cursive;
+}
+ul {
+  padding-inline-start: 0rem;
+}
