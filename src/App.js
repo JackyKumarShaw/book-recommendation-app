@@ -22,14 +22,14 @@ const booksDB = {
       by: "Donald Ervin Knuth",
       rating: "6/5",
       comments:
-        "'If you can finish this book, send me your resume.' - Bill Gates. I don't think I have to anything more."
+        "'If you can finish this book, send me your resume.' - Bill Gates. I don't think I have to say anything more."
     },
     {
       name: "Clean Code: A Handbook of Agile Software Craftsmanship",
       by: "Robert C. Martin",
       rating: "4/5",
       comments:
-        "This is the book that makes your code as beautiful as the output, or maybe more!"
+        "This is the book that makes your code look as beautiful as the output, or maybe more!"
     },
     {
       name:
@@ -58,7 +58,7 @@ const booksDB = {
       by: "Kyle Simpson",
       rating: "5/5",
       comments:
-        "Its difficult to find a good JS book. But when you do find one, you can't help but share about it. You need this book if you have cmpleted Eloquent Javascript and are serious about JS."
+        "As I said, its difficult to find a good JS book. But when you do find one, you can't help but share about it. You need this book if you have completed Eloquent Javascript and are serious about JS."
     }
   ],
 
@@ -80,7 +80,7 @@ const booksDB = {
         "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
       by: "James Clear",
       rating: "5/5",
-      comments: "If you don't need this book, you are God Gifted!"
+      comments: "If you don't need this book, you are God Gifted! The best book on Habits till date!"
     },
     {
       name: "The Power of NOW",
@@ -94,7 +94,7 @@ const booksDB = {
       by: "Eckhart Tolle",
       rating: "5/5",
       comments:
-        "This is not a book. Its a living friend. It will be there for you forever. So think twice before ignoring!"
+        "This is not a book. Its a living friend. It will be there for you forever. It tells you about the ONLY problem that there is, 'the EGO' and how to kill it. So think twice before ignoring!"
     },
     {
       name:
@@ -109,7 +109,7 @@ const booksDB = {
       by: "Mihaly Csikszentmihalyi",
       rating: "5/5",
       comments:
-        "If you want to keep yourself ignorant about the real way of getting Happy forever, ignore this book!"
+        "If you want to keep yourself forever ignorant about the real way of getting Happy, ignore this book!"
     },
     {
       name: "Rich Dad Poor Dad",
@@ -122,7 +122,7 @@ const booksDB = {
       name: "12 Rules for Life: An Antidote to Chaos",
       by: "Jordan B. Peterson",
       rating: "4/5",
-      comments: "A good book to gain clarity in chaotic life situatuation."
+      comments: "A good book to gain clarity and strength in chaotic life situatuation."
     },
     {
       name: "The Untethered Soul: The Journey Beyond Yourself",
@@ -156,14 +156,14 @@ const booksDB = {
       by: "Osho",
       rating: "5/5",
       comments:
-        "I am sure you will reach out to me on any of my social handles just to say thank you if you read this book. Also, your book-shelf will then start becoming mostly Osho books!"
+        "I am sure you will reach out to me on any of my social handles just to say thank you after you've read this book. Also, your book-shelf will then start filling up with mostly Osho books!"
     },
     {
       name: "Wings of Fire and All Books by Dr. A.P.J. Abdul Kalam",
       by: "Arun Tiwari and Dr. A.P.J. Abdul Kalam",
       rating: "5/5",
       comments:
-        "If you are looking for inspiration, look nowhere else! If you have not read books by APJ Abdul Kalam, I feel sorry for you!"
+        "If you are looking for inspiration, look nowhere else! If you have not read books by Dr. APJ Abdul Kalam, I feel sorry for you!"
     },
     {
       name: "The First and Last Freedom",
@@ -179,7 +179,7 @@ const booksDB = {
       by: "Sir Arthur Conan Doyle",
       rating: "5/5",
       comments:
-        "Don't buy the All-in-One fat but small book, you won't be able to read. Buy the 2 voulme big sized hardcover one."
+        "Don't buy the All-in-One fat but small book, you won't be able to read from it. Buy the 2 volume big sized hardcover one."
     },
     {
       name: "The Alchemist",
@@ -198,7 +198,7 @@ const booksDB = {
       name: "Jonathan Livingston Seagull",
       by: "Richard Bach",
       rating: "5/5",
-      comments: "A masterpiece!"
+      comments: "A masterpiece! Honestly speaking, after reading this book or watching its movie with the same name, you will not see birds in the same way you do now. Something deep within you will unknowingly shift!"
     },
     {
       name: "Major Novels by Fyodor Dostoevsky",
@@ -216,13 +216,13 @@ const booksDB = {
       name: "The Mahabharata",
       by: "Maharishi Vyasa",
       rating: "6/5",
-      comments: "THE EVER RELEVANT, GREATEST STORY EVER TOLD!"
+      comments: "THE EVER RELEVANT TO ANY KNID OF READER, GREATEST STORY EVER TOLD!"
     },
     {
       name: "A Christmas Carol",
       by: "Charles Dickens",
       rating: "4/5",
-      comments: "To melt that stone of heart you've got!"
+      comments: "To melt that stone of a heart you've got!"
     },
     {
       name: "2001: A Space Odyssey",
