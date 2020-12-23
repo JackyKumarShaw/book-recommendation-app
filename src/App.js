@@ -6,7 +6,7 @@ const booksDB = {
     {
       name: "The C Programming Language",
       by: "Dennis Ritchie",
-      rating: "5/5",
+      rating: "4/5",
       comments:
         "When the creater himself gets down to teach, what would take many lines of code gets written in a very few lines without using any libraries.That is what is called pure BEAUTY or code poetry. A must read, re-read, and keep forever."
     },
